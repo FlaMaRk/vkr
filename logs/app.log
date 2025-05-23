@@ -1,0 +1,13 @@
+User admin logout from system. IP: 127.0.0.1
+User admin login in system. IP: 127.0.0.1
+User klerk login in system. IP: 127.0.0.1
+User klerk change password. IP: 127.0.0.1
+User klerk change profile. IP: 127.0.0.1
+User admin login in system. IP: 127.0.0.1
+2025-04-05 15:22:26,582 WARNING views 16072 16840 пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ Test1. IP: 127.0.0.1
+2025-04-22 18:50:14,354 WARNING views 11228 22872 Неудачная попытка входа для пользователя admin. IP: 127.0.0.1
+2025-04-22 18:50:25,103 INFO views 11228 22872 User admin login in system. IP: 127.0.0.1
+2025-04-22 18:54:26,749 INFO views 11228 20340 User admin logout from system. IP: 127.0.0.1
+2025-04-22 19:04:52,883 WARNING views 11228 21336 Неудачная попытка входа для пользователя Admin. IP: 127.0.0.1
+2025-04-22 19:04:59,085 INFO views 11228 21336 User admin login in system. IP: 127.0.0.1
+2025-05-04 17:25:09,166 INFO views 10748 16844 User admin login in system. IP: 127.0.0.1
