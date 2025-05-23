@@ -7,7 +7,7 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/BigVadya/FoxDiplom.git
+git clone 
 ```
 
 2. Установите зависимости:
