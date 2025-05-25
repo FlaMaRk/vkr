@@ -7,7 +7,7 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone 
+git clone https://github.com/FlaMaRk/vkr.git
 ```
 
 2. Установите зависимости:
